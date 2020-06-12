@@ -1,2 +1,2 @@
 # Assignment2
-Coursera assignment 2
+coursera assignmenrt 2
